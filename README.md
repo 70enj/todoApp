@@ -2,6 +2,7 @@
 
 ## 概要
 フロントエンドにDart/Flutter、バックエンドにGo/gin、DBにMySqlを用いたtodoアプリ
+state管理はRedux、ORマッパーはgorm。
 
 ## ローカルで実行する際の設定
 ### todo_api
